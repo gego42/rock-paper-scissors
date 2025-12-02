@@ -1,4 +1,4 @@
-# my-first-vue-project
+# vue.js frontend game
 
 ## Project setup
 ```
